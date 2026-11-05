@@ -1,0 +1,4 @@
+﻿- Họ và tên:
+- Chuyên ngành:
+- Kỹ năng:
+- Mục tiêu nghề nghiệp:
